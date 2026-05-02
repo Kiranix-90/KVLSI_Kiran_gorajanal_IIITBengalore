@@ -1,5 +1,5 @@
 // Code your design here
-//KVLSI0126039
+//KVLSI2601039
 //Kiran Gorajanal
 
 module dec2_4(a, b, d[0],d[1],d[2],d[3]);
